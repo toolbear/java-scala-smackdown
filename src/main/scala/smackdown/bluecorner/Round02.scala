@@ -7,9 +7,11 @@ object Round02a {
 }
 
 
+
+
+
+
 // ↓ page down ↓
-
-
 
 
 
@@ -37,6 +39,11 @@ object Round02b extends App {
 
 
 
+
+
+
+
+
 // ↓ page down ↓
 
 
@@ -57,10 +64,7 @@ object Round02b extends App {
 
 
 
-
-
 /*
-
 
 $ scala round02.script
 println("Hello World, Goodbye Boilerplate")
