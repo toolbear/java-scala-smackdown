@@ -6,8 +6,8 @@ import org.junit.Test;
 
 public class Round01Test {
 
-    @Test public void trueIsTrue() {
-        assertThat(true, is(true));
-    }
+  @Test public void trueIsTrue() {
+    assertThat(true, is(true));
+  }
 
 }
