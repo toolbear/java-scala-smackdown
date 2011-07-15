@@ -70,7 +70,7 @@ class Round06Test extends Spec with ShouldMatchers {
 
   describe("""`Calorie` "case class" kills boilerplate""") {
 
-    case class Calorie(val value: Int)
+    case class Calorie(value: Int)
     // compiler generates toString(), equals() & hashCode()
 
 
