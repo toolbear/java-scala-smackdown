@@ -82,7 +82,7 @@ class Round07Test extends Spec with ShouldMatchers {
     val colors = List("blue", "cyan", "black")
 
     it("sorts in reverse lexographical order") {
-      val sorted = colors sortWith reverse
+      val sorted = colors.sortWith(reverse)
 
       sorted should equal (List("cyan", "blue", "black"))
     }
